@@ -1,0 +1,16 @@
+﻿"Symbol";"Value";"Unit";
+"SUPPLIER_NAME";"RS Components";"";
+"TraceParts.PartVersion";"1.1.7";"";
+"SUPPLIER";"Richco";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"10-25012011-081323";"";
+"TraceParts.PartLanguage";"fr";"";
+"DESIGN";"Entretoise filetée Richco, longueur 25mm, Mâle / Femelle, M4 x M4";"";
+"TraceParts.InstanceId";"10-25012011-081323EITOOSTX7VK0WYJ81951BH500";"";
+"TraceParts.PartTitle";"Entretoise filetée Richco, longueur 25mm, Mâle / Femelle, M4 x M4";"";
+"REFERENCE";"HTSBG-M4-25-7-2";"";
+"Buy_Now";"https://uk.rs-online.com/web/p/products/1058331?cm_mmc=en-ds-_-mcad-_-traceparts-_-1058331'";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"rs_stock_number";"1058331";"";
+"TraceParts.ClassPath";"RS_COMPONENTS:10-25012011-081323";"";

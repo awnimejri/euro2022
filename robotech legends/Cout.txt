@@ -1,0 +1,21 @@
+
+Servo 53,1 kg / 0.14Sec / 81g        --> 36,35 €  (moteur brushless)
+https://hobbyking.com/fr_fr/robostar-sbrs-5314htg-280-digital-metal-gear-high-voltage-robot-servo-53-1kg-0-14sec-81g.html?___store=fr_fr 
+
+Vacuum // ventouse Cup 28 mm     --> $20.05
+https://www.tsisolutions.us/itemdetail/?itemCode=G.FX28T30.B1.S1.G18M.00
+
+Electrovanne
+https://www.burkert.fr/fr/type/6126
+
+
+
+
+Module Convertisseur réglable DC-DC 12A  --> 45,00 TND
+https://tuni-smart-innovation.com/index.php?id_product=851&id_product_attribute=0&rewrite=module-convertisseur-reglable-dc-dc-convertisseur-abaisseur-de-module-de-buck-45v-30v-a-08v-12v-100w-12a&controller=product
+
+
+ou bien
+
+Module Convertisseur réglable, régulateur de tension d'alimentation 12V,  9A
+https://tuni-smart-innovation.com/index.php?id_product=726&id_product_attribute=0&rewrite=module-convertisseur-reglable-regulateur-de-tension-d-alimentation-12v-xl4016-300w-9a-5-40v-a-12-35v&controller=product

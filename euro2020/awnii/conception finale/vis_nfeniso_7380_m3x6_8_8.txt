@@ -1,0 +1,17 @@
+﻿"Symbol";"Value";"Unit";
+"NOTE";"Classe: 8.8";"";
+"REFERENCE";"NF EN ISO 7380 - d M3 x l 6 - 8.8";"";
+"MATERIAL";"Acier";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"10-26082008-106536";"";
+"STANDARD";"NF EN ISO 7380";"";
+"DESIGN";"Vis à tête cylindrique bombée plate à six pans creux NF EN ISO 7380 - M3 x 6 - 8.8";"";
+"TraceParts.InstanceId";"10-26082008-106536C73VZR6S0LYIGDM2N9UHSD6DR";"";
+"TraceParts.PartLanguage";"fr";"";
+"TraceParts.PartTitle";"Vis à tête cylindrique bombée plate à six pans creux";"";
+"OMNICLASS23";"23.13.23.11.13";"";
+"TraceParts.PartVersion";"1.2.9";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"NF:10-26082008-106536";"";
+"TraceParts.PartStandardAcronym";"NF";"";
